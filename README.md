@@ -5,7 +5,7 @@ This repository contains my entry and accompanying work to the [Kaggle Titanic c
 
 #### Click [this link](http://nbviewer.ipython.org/github/daverb/Titanic_Analysis/blob/master/Kaggle_Titanic_Analysis.ipynb) to view a static version of the iPython Notebook.
 
-I have worked through this challenge in an [iPython Notebook](http://nbviewer.ipython.org/github/daverb/Titanic_Analysis/blob/master/Kaggle_Titanic_Analysis.ipynb) where I have performed exploratory data analysis on the data provided in order to make evidence based choices when selecting features for my machine learning model.
+I have worked through this challenge in an [iPython Notebook](http://nbviewer.ipython.org/github/daverb/Titanic_Analysis/blob/master/Kaggle_Titanic_Analysis.ipynb) where I have performed exploratory data analysis on the data provided in order to make evidence based choices when selecting features for my machine learning model and subsequently built up the model itself..
 
 The Python script used to generate my submission file, the submission file itself and all associated content is contained within this repository.
 
